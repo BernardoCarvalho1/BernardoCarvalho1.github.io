@@ -1,0 +1,31 @@
+.fontes{font-family: Helvetica Neue,Helvetica,Arial,sans-serif; 
+text-align: center;
+
+
+}
+body{
+    background-color: lightgray;
+}
+.estilo{
+    font-weight: bold;
+    color: seagreen ;
+    float: right;
+    margin-left: 16%;
+    top: 105px;
+    position: absolute;
+    
+}
+.tamanho{
+    font-size: 18px;
+}
+.foto{
+    padding: 1%;
+    background-color: blue;
+    
+}
+
+  
+   
+   
+    
+
